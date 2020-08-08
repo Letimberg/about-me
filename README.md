@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/Letimberg/letimberg/blob/master/14bis.jpg">
+<img width="1100" height="400" src="https://github.com/Letimberg/letimberg/blob/master/14bis.jpg">
 
 
 # Letimberg Cavalcante
