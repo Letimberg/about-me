@@ -7,7 +7,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando no **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE**
- <br/> :purple_heart: &nbsp; Buscando ajudar com projetos em Front-end usando JS*
+ <br/> :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JS*
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e JavaScript 
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Python
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, cinéfilo, notívago, games Final Fantasy, :dragon: Dungeons and Dragons, seriados no Netflix e Prime
