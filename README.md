@@ -7,8 +7,8 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando no **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE**
- <br/> :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JS e Node.js*
- <br/> :octocat: &nbsp; Posso te ajudar com CSS Grid Layou, JavaScript e  Node.js 
+ <br/> :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*
+ <br/> :octocat: &nbsp; Posso te ajudar com CSS Grid Layout, JavaScript e  Node.js 
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Python
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, cinéfilo, notívago, games Final Fantasy, :dragon: Dungeons and Dragons, seriados no Netflix e Prime
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LetimbergCavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letimberg-cavalcante/)](https://www.linkedin.com/in/letimberg-cavalcante/) 
