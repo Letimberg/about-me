@@ -33,11 +33,8 @@
 </p>
 
 <p align="left">
-  💌 :dart: &nbsp; Buscando ajudar com projetos em: ⤵️
- Front-end usando JQuery, ReactJS e Vue.js*
+  💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*: Entre contato e vamos CODAR! ⤵️
 </p>
-
-
 
 <p align="left">
   <a href="#" alt="Gmail">
