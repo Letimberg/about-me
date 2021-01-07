@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ## 👋 Olá, meu nome é <strong>{Letimberg Cavalcante}!</strong>
+  ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong>
   Estou trabalhando no **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE**
   Curto tecnologias, cinéfilo, notívago, games Final Fantasy, :dragon: Dungeons and Dragons, 
   seriados no Netflix e Prime
@@ -33,6 +33,11 @@
 <p align="left">
   💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*: Entre em contato e vamos CODAR! ⤵️
 </p>
+
+## ⭐ Informações sobre minha conta GitHub
+[![letimberg](https://github-readme-stats.vercel.app/api?username=letimberg&theme=radical)](https://github.com/letimberg/)
+
+[![letimberg](https://github-readme-stats.vercel.app/api/top-langs/?username=letimberg&hide=html&layout=compact&theme=tokyonight)](https://github.com/letimberg/)
 
 <p align="left">
   <a href="#" alt="Gmail">
