@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong>
-  Estou trabalhando no **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE**
+  ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
+  Estou trabalhando: <br /> **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE** <br />
   Curto tecnologias, cinéfilo, notívago, games Final Fantasy, :dragon: Dungeons and Dragons, 
   seriados no Netflix e Prime
   Sou apaixonado por resolver problemas utilizando a programação.
@@ -13,7 +13,6 @@
 
 <p align="left">
  ## 🚀 Minhas Skills
-
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -33,12 +32,6 @@
 <p align="left">
   💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*: Entre em contato e vamos CODAR! ⤵️
 </p>
-
-## ⭐ Informações sobre minha conta GitHub
-[![letimberg](https://github-readme-stats.vercel.app/api?username=letimberg&theme=tokyonight)](https://github.com/letimberg/)
-
-[![letimberg](https://github-readme-stats.vercel.app/api/top-langs/?username=letimberg&hide=html&layout=compact&theme=tokyonight)](https://github.com/letimberg/)
-
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=letimberg.cavalcante@gmail.com" /></a>
@@ -50,5 +43,9 @@
 <a href="#" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/letimberg" /></a>
 </a>
-</p>  
+</p>
 
+## ⭐ Informações sobre minha conta GitHub
+[![letimberg](https://github-readme-stats.vercel.app/api?username=letimberg&theme=tokyonight)](https://github.com/letimberg/)
+
+[![letimberg](https://github-readme-stats.vercel.app/api/top-langs/?username=letimberg&hide=html&layout=compact&theme=tokyonight)](https://github.com/letimberg/)
