@@ -35,7 +35,7 @@
 </p>
 
 ## ⭐ Informações sobre minha conta GitHub
-[![letimberg](https://github-readme-stats.vercel.app/api?username=letimberg&theme=radical)](https://github.com/letimberg/)
+[![letimberg](https://github-readme-stats.vercel.app/api?username=letimberg&theme=tokyonight)](https://github.com/letimberg/)
 
 [![letimberg](https://github-readme-stats.vercel.app/api/top-langs/?username=letimberg&hide=html&layout=compact&theme=tokyonight)](https://github.com/letimberg/)
 
