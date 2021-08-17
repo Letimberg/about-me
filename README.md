@@ -30,7 +30,8 @@
 </p>
 
 <p align="left">
-  💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*: Entre em contato e vamos CODAR! ⤵️
+  💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*!
+  💌 :dart: &nbsp; Buscando ajudar com projetos em Back-end usando Python*: Entre em contato e vamos CODAR! ⤵️
 </p>
 <p align="left">
   <a href="#" alt="Gmail">
