@@ -4,7 +4,7 @@
 
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
-  Estou trabalhando atualmente: ⤵️ <br /> **Centro de Hematologia e Hemoterapia do Ceará - HEMOCE** <br />
+  Estou estudando atualmente: ⤵️ <br /> **ESTÁCIO** <br />
   Curto tecnologias, cinéfilo, notívago, games Final Fantasy, <br /> :dragon: Dungeons and Dragons, 
   seriados na Netflix e Prime.
   Sou apaixonado por resolver problemas utilizando a programação.
