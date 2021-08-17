@@ -31,6 +31,8 @@
 
 <p align="left">
   💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js*!
+</p>
+<p align="left">
   💌 :dart: &nbsp; Buscando ajudar com projetos em Back-end usando Python*: Entre em contato e vamos CODAR! ⤵️
 </p>
 <p align="left">
@@ -39,10 +41,6 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letimberg-cavalcante/" /></a>
-</a>
-
-<a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/letimberg" /></a>
 </a>
 </p>
 
