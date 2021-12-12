@@ -8,21 +8,15 @@
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
   Estou estudando atualmente: ⤵️ <br /> **ESTÁCIO** <br />
-  Curto tecnologias, cinéfilo, notívago, games Final Fantasy, <br /> :dragon: Dungeons and Dragons e seriados. Sou apaixonado por resolver problemas utilizando a programação.
-  FullStack Developer :computer:  
+  Curto tecnologias, cinéfilo, notívago, Final Fantasy, <br /> :dragon: Dungeons and Dragons e seriados. Sou apaixonado por resolver problemas utilizando a programação.
+  Leaving to Learn :computer:  
 </p>
 
 <p align="left">
  ## 🚀 Minhas Skills
 <div style="display: inline_block">
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-  <code><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>  
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>  
 </div>
 
 </p>
@@ -32,11 +26,11 @@
 </p>
 
 <p align="left">
-  💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando JQuery, ReactJS e Vue.js!
+  💌 :dart: &nbsp; Buscando ajudar com projetos em Front-end usando HTML e CSS!
 </p>
 
 <p align="left">
-  💌 :dart: &nbsp; Buscando ajudar com projetos em Back-end usando Python: Entre em contato e vamos CODAR! ⤵️
+  💌 :dart: &nbsp; Próximo passo - Back-end : Entre em contato e vamos CODAR! ⤵️
 </p>
 
 <p align="left">
