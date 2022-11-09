@@ -7,13 +7,23 @@
 
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
-  Estou estudando atualmente: ⤵️ <br /> <strong>ESTÁCIO</strong> <br />
-  <strong>Hobbies</strong> Tecnologias, notívago, cinéfilo, final fantasy, <br /> :dragon: Dungeons and Dragons e toda a obra obrar do senhor dos anéis. Sou apaixonado por resolver problemas utilizando a programação.
-  <br /> Leaving to Learn :computer:  <br /> 
+  Estou estudando atualmente: ⤵️ <br /> <strong>ESTÁCIO PARANGABA FORTALEZA-CE</strong> <br />
+  
+  <strong>## Hobbies</strong>
+  <ul>
+    <li>Tecnologias</li>
+    <li>Notívago</li>
+    <li>Cinéfilo</li>
+    <li>Final fantasy</li>
+    <li>:dragon: Dungeons and Dragons</li>
+    <li>Universo do senhor dos anéis</li>
+  </ul>
+<p> Sou apaixonado por resolver problemas utilizando a programação.
+<br /> Leaving to Learn :computer:  <br /> 
 </p>
 
 <p align="left">
- ## 🚀 Minhas Skills
+ <strong>## 🚀 Minhas Skills</strong>
 <div style="display: inline_block">
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>  
