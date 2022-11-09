@@ -7,9 +7,9 @@
 
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
-  Estou estudando atualmente: ⤵️ <br /> **ESTÁCIO** <br />
-  Curto tecnologias, cinéfilo, notívago, Final Fantasy, <br /> :dragon: Dungeons and Dragons e seriados. Sou apaixonado por resolver problemas utilizando a programação.
-  Leaving to Learn :computer:  
+  Estou estudando atualmente: ⤵️ <br /> <strong>ESTÁCIO</strong> <br />
+  <strong>Hobbies</strong> Tecnologias, notívago, cinéfilo, final fantasy, <br /> :dragon: Dungeons and Dragons e toda a obra obrar do senhor dos anéis. Sou apaixonado por resolver problemas utilizando a programação.
+  <br /> Leaving to Learn :computer:  <br /> 
 </p>
 
 <p align="left">
