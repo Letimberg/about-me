@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## ⭐ Informações sobre minha conta GitHub
-[![letimberg](https://github-readme-stats.vercel.app/api/top-langs/?username=letimberg&hide=html&layout=compact&theme=tokyonight)](https://github.com/letimberg/)
 
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
