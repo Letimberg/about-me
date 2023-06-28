@@ -6,7 +6,7 @@
 
 <p align="left"> 
   ## 👋 Olá, meu nome é <strong> < Letimberg Cavalcante! /></strong> <br />
-  Estou estudando atualmente: ⤵️ <br /> <strong>ESTÁCIO PARANGABA FORTALEZA-CE</strong> <br />
+  Formado em: ⤵️ <br /> <strong>Análise e Desenvolvimento de Sistemas</strong> <br />
   
   <strong>## Hobbies</strong>
   <ul>
