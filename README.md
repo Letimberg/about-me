@@ -14,11 +14,11 @@
     <li>Notívago</li>
     <li>Cinéfilo</li>
     <li>Final fantasy</li>
-    <li>:dragon: Dungeons and Dragons</li>
-    <li>Universo do senhor dos anéis</li>
+    <li>🐲 Dungeons and Dragons</li>
+    <li>💍 Universo do Senhor dos Anéis</li>
   </ul>
 <p> Sou apaixonado por resolver problemas utilizando a programação.
-<br /> Leaving to Learn :computer:  <br /> 
+<br /> Live and learn :computer:  <br /> 
 </p>
 
 <p align="left">
