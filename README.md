@@ -1,5 +1,3 @@
-<img width="1100" height="400" src="https://github.com/Letimberg/letimberg/blob/master/14bis.jpg">
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## ⭐ Informações sobre minha conta GitHub
